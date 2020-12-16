@@ -12,9 +12,6 @@
         'base_setup',
         'web',
     ],
-    "external_dependencies": {
-        "python": ["lasso"],
-    },
     "demo": [
         'demo/auth_saml.xml',
     ],
